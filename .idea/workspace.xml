@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9996095f-017e-4e85-adc9-e04b90de2987" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/soal-no6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/soal-no3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,37 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/soal-no4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-              <folding>
-                <element signature="e#595#776#0" />
-                <element signature="e#654#710#0" />
-                <element signature="e#885#943#0" />
-                <element signature="e#1018#1026#0" />
-                <element signature="e#1064#1093#0" />
-                <element signature="e#1144#1244#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/soal-no6.js">
+        <entry file="file://$PROJECT_DIR$/src/soal-no3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/soal-no1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="295">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -53,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/soal-no5.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -81,6 +55,7 @@
         <option value="$PROJECT_DIR$/src/soal-no4.js" />
         <option value="$PROJECT_DIR$/src/soal-no5.js" />
         <option value="$PROJECT_DIR$/src/soal-no6.js" />
+        <option value="$PROJECT_DIR$/src/soal-no3.js" />
       </list>
     </option>
   </component>
@@ -129,7 +104,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560611662015" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560612643619" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/soal-no6.js" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -148,20 +123,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.soal-no6.js">
+  <component name="RunManager" selected="Node.js.soal-no3.js">
     <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/Tugas1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="soal-no6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="src/soal-no6.js" working-dir="$PROJECT_DIR$">
+    <configuration name="soal-no3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="src/soal-no3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.Unnamed" />
-      <item itemvalue="Node.js.soal-no6.js" />
+      <item itemvalue="Node.js.soal-no3.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.soal-no6.js" />
+        <item itemvalue="Node.js.soal-no3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -176,16 +151,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560584931254</updated>
-      <workItem from="1560584935090" duration="20363000" />
+      <workItem from="1560584935090" duration="21904000" />
     </task>
+    <task id="LOCAL-00001" summary="Soal No 6">
+      <created>1560611690252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560611690253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20363000" />
+    <option name="totallyTimeSpent" value="21904000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -197,12 +179,12 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3293718" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3277592" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49924356" weight="0.24916388" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50075644" side_tool="true" weight="0.3293718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.26588628" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.26588628" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.45652175" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,6 +229,13 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Soal No 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Soal No 6" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -259,6 +248,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="42" column="35" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/soal-no1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -277,24 +273,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/soal-no6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/soal-no5.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/soal-no1.js">
+    <entry file="file://$PROJECT_DIR$/src/soal-no3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/soal-no6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        <state relative-caret-position="295">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
