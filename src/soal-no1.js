@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 /**
  * SOAL NO 1
  *
@@ -25,9 +18,9 @@ let promo = 4;
 let bonus = 1;
 
 //Perhitungan
-let beli_mie = parseInt(bekal_uang/harga_mie);
-let sisa_uang = bekal_uang%harga_mie;
-let bonus_mie = parseInt(beli_mie/promo)*bonus;
+let beli_mie = parseInt(bekal_uang / harga_mie);
+let sisa_uang = bekal_uang % harga_mie;
+let bonus_mie = parseInt(beli_mie / promo) * bonus;
 let jumlah_didapat = beli_mie + bonus_mie;
 
 //Output

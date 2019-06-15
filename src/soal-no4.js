@@ -23,14 +23,36 @@
 
  */
 
- let bilangan = [6,22,34,15,2,13,26,57,42,32];
+var bilangan = [6, 22, 34, 15, 2, 13, 26, 57, 42, 32];
 
- const data_terkecil = () =>{
+const data_terkecil = () => {
+    let [bil] = bilangan;
+    bilangan.forEach(function (bilangan, index) {
+        bil = (bilangan < bil) ? bilangan : bil;
+    });
+    console.log(`Data Terkecil : ${bil}`);
+};
+const data_terbesar = () => {
      let [bil] = bilangan;
-     bilangan.forEach(function (bilangan, index) {
-         bil = (bilangan < bil) ? bilangan:bil;
-     });
-     console.log(bil)
-}
+     bilangan.forEach((function (bilangan, index) {
+         bil = (bilangan > bil) ? bilangan : bil;
+     }))
+    console.log(`Data Terbesar : ${bil}`);
+};
+const ascending_sort = () =>{
+    let bil = (bilangan.sort(function (a,b) {
+        return a-b;
+    }));
+    console.log(`Ascending Sort : ${bil}`);
+};
+const descending_sort = () =>{
+    let bil = (bilangan.sort(function (a,b) {
+        return b - a;
+    }));
+    console.log(`Descending Sort : ${bil}`);
+};
 
 data_terkecil();
+data_terbesar();
+ascending_sort();
+descending_sort();
