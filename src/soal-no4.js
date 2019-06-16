@@ -23,7 +23,7 @@
 
  */
 
-var bilangan = [6, 22, 34, 15, 2, 13, 26, 57, 42, 32];
+let bilangan = [6, 22, 34, 15, 2, 13, 26, 57, 42, 32];
 
 const data_terkecil = () => {
     let [bil] = bilangan;
