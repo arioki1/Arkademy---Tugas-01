@@ -1,9 +1,3 @@
-
-
-
-
-
-
 /**
  SOAL
 
@@ -31,25 +25,25 @@
 var input = 5;
 let i = 1;
 
-while(input >= 1) {
+while (input >= 1) {
 
-    if (isPrime(i) == true){
+    if (isPrime(i) == true) {
         let baris = [];
         for (let j = 1; j <= i; j++) {
-            if (isPrime(j) == true){
+            if (isPrime(j) == true) {
                 baris.push(j);
             }
         }
-        console.log(baris.join(" "))
+        console.log(baris.join(" "));
         input--;
     }
     i++;
 }
 
 function isPrime(num) {
-    var prime = num != 1;
-    for(var i=2; i<num; i++) {
-        if(num % i == 0) {
+    let prime = num != 1;
+    for (let i = 2; i < num; i++) {
+        if (num % i == 0) {
             prime = false;
             break;
         }
