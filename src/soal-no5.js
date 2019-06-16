@@ -48,7 +48,7 @@ const palindrome = (text, search) => {
      * kalau deklarasi seperti ini error dan sampai sekarang belum tau fix nya di mana
      */
     const array1 = text.split("");
-    console.log(cari(array1, search) + cari(array1.reverse(), search));
+    console.log(`Ditemukan kata ${val} dari text/kalimat ${string} yaitu berjumlah ${cari(array1, search) + cari(array1.reverse(), search)}`);
 };
 palindrome(string, val);
 
